@@ -7,6 +7,8 @@ Swift & Java
 ### Team Members
 Megan Cochran & Harry O'Connor
 
+-----------------------------------------------------------------------------------------------------
+
 ### Comparison Criteria
 
 * Language purpose/genesis
