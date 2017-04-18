@@ -1,6 +1,12 @@
 # Object-Oriented-Language-Comparison
 Repository for CS4330 Final Project
 
+
+### Languages Compared
+Swift & Java
+### Team Members
+Megan Cochran & Harry O'Connor
+
 ### Comparison Criteria
 
 * Language purpose/genesis
