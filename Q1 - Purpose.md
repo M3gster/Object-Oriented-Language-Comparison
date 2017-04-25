@@ -17,5 +17,9 @@ Java was intended to replace C/C++
 #### Swift
 Swift is more of a reaction to Objective-C, rather than it's replacement. It was made to be "safer" than Objective-C is, rather than just replace Objective-C in it's entirety. 
 
+
+
+-----------------------------------------------------------------------------------------------------
+
 ### Sources
 The History and Evolution of Java. N.p.: McGraw-Hill, n.d. Web. 25 Apr. 2017. <http://books.mcgraw-hill.com/downloads/products/0072230738/0072230738_c01.pdf>.
