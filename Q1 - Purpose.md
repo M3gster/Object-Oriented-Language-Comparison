@@ -1,6 +1,6 @@
 ## Why was the laguage created?
-# Java
-# Swift
+#### Java
+#### Swift
 
 ## What problems was the language trying to address?
 
