@@ -1,4 +1,4 @@
-## Does the language have any particularly unique features?
+## How are values compared? (i.e. comparing two string)
 #### Java
 Sample
 #### Swift

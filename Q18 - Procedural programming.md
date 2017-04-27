@@ -1,4 +1,4 @@
-## Does the language have any particularly unique features?
+## Does the language support procedural programming?
 #### Java
 Sample
 #### Swift

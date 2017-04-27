@@ -1,4 +1,4 @@
-## Does the language have any particularly unique features?
+## this? self?
 #### Java
 Sample
 #### Swift
