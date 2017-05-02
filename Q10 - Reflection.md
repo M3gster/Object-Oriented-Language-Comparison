@@ -1,8 +1,8 @@
 ## What reflection abilities are supported?
 #### Java
-''' Sample
+Sample
 #### Swift
-'''Sample
+Sample
 
 ## How is reflection used?
 #### Java
