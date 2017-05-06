@@ -19,6 +19,7 @@
 - Optional
 ###### Bound Values
 | Type | Bit Width | Range |
+| --- | --- | --- |
 | Int8 | 1 | -127 to 127 |
 | UInt8 | 1 | 0 to 255 |
 | Int32 | 4 | -2147483648 to 2147483647 |
