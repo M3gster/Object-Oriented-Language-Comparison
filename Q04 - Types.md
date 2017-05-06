@@ -1,6 +1,6 @@
 ## What Types does the language support?
 #### Java
-##### Primitive
+###### Primitive
 - byte
 - short
 - int
@@ -17,8 +17,11 @@
 - String
 - Character
 - Optional
-##### Bound Values
-- Int8
+###### Bound Values
+| Type | Bit Width | Range |
+|---|---|---|
+| Int8 | 1 | -127 to 127 |
+|---|---|---|
 - UInt8
 - Int32
 - UInt32
