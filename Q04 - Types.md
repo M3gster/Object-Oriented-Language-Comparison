@@ -10,18 +10,16 @@
 - boolean
 - char
 #### Swift
-- Int or UInt
-- Float
-- Double
+- Int or UInt (see below)
+- Float (see below)
+- Double (see below)
 - Bool
 - String
 - Character
 - Optional
 ###### Bound Values
 | Type | Bit Width | Range |
-|---|---|---|
 | Int8 | 1 | -127 to 127 |
-|---|---|---|
 | UInt8 | 1 | 0 to 255 |
 | Int32 | 4 | -2147483648 to 2147483647 |
 | UInt32 | 4 | 0 to 4294967295 |
@@ -32,15 +30,15 @@
 
 ## Are both reference and value types supported?
 #### Java
-Sample
+Yes
 #### Swift
-Sample
+Yes
 
 ## Can new value types be created?
 #### Java
-Sample
+No
 #### Swift
-Sample
+Yes
 
 ----
 
@@ -48,3 +46,5 @@ Sample
 https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
 
 https://www.tutorialspoint.com/swift/swift_data_types.htm
+
+https://developer.apple.com/swift/blog/?id=10

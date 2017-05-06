@@ -20,7 +20,7 @@ Java was intended to replace C/C++
 
 
 
------------------------------------------------------------------------------------------------------
+----
 
 ### Sources
 "About Swift." Swift. N.p., n.d. Web. 25 Apr. 2017. <https://swift.org/about/#swiftorg-and-open-source>.
