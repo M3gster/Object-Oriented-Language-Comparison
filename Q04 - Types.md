@@ -1,8 +1,31 @@
 ## What Types does the language support?
 #### Java
-Sample
+##### Primitive
+- byte
+- short
+- int
+- long
+- float
+- double
+- boolean
+- char
 #### Swift
-Sample
+- Int or UInt
+- Float
+- Double
+- Bool
+- String
+- Character
+- Optional
+##### Bound Values
+- Int8
+- UInt8
+- Int32
+- UInt32
+- Int64
+- UInt64
+- Float
+- Double
 
 ## Are both reference and value types supported?
 #### Java
@@ -19,4 +42,6 @@ Sample
 ----
 
 ### Sources
-Sample
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+
+https://www.tutorialspoint.com/swift/swift_data_types.htm
