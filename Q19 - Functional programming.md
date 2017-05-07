@@ -1,6 +1,7 @@
 ## Does the language support functional programming?
 #### Java
 No
+
 #### Swift
 Yes
 
