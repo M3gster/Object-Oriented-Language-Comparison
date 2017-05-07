@@ -1,6 +1,14 @@
 ## Defining
 #### Java
-Sample
+Defining a class is done through a class declaration. Class declarations can include: modifiers, class name, name of the superclass preceded by the word extends, a listed of implemented interfaces, and the class body.
+Example:
+```
+class Cat {
+  int age;
+  string name;
+  string color;
+ }
+ ```
 #### Swift
 Sample
 
@@ -25,4 +33,4 @@ Sample
 ----
 
 ### Sources
-Sample
+Java Answers: https://docs.oracle.com/javase/tutorial/java/javaOO/classdecl.html
