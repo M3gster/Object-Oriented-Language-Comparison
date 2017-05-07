@@ -10,7 +10,14 @@ class Cat {
  }
  ```
 #### Swift
-Sample
+Classes in Swift are defined in a similar way to Java. There can be a modifier, class name, interfaces, and a class body. Extension doesn't normally appear the same in Swift as it does in Java.
+```
+class Cat{
+  var age: Int
+  var name: String
+  var color: String
+ }
+ ```
 
 ## Creating new instances
 #### Java
