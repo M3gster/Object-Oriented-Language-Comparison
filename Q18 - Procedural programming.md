@@ -1,10 +1,10 @@
 ## Does the language support procedural programming?
 #### Java
-Sample
+Yes
 #### Swift
-Sample
+Yes
 
 ----
 
 ### Sources
-Sample
+https://swift.unicorn.tv/articles/oop-functional-swift
