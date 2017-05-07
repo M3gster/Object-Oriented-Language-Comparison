@@ -1,10 +1,10 @@
 ## Does the language support functional programming?
 #### Java
-Sample
+No
 #### Swift
-Sample
+Yes
 
 ----
 
 ### Sources
-Sample
+Dale's Lecture
