@@ -1,6 +1,6 @@
 ## How are name spaces implemented?
 #### Java
-Sample
+Name spaces are implemented in Java through the use of packages.
 #### Swift
 Sample
 
@@ -13,4 +13,5 @@ Sample
 ----
 
 ### Sources
-Sample
+Java Answers: http://cs.smu.ca/~porter/csc/465/notes/javapl_packages.html
+ 
