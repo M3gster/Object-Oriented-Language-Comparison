@@ -1,10 +1,19 @@
 ## How are values compared? (i.e. comparing two string)
 #### Java
-Sample
+| Comparison | Type |
+| --- | --- |
+| a == b, a != b | Reference |
+| a.equals(b) | Value |
+| a.compareTo(b) | Value |
+| compare(a, b) | Value |
 #### Swift
-Sample
+Comparison | Type
+a == b, a != b | Value
+a === b, a !== b | Reference
 
 ----
 
 ### Sources
-Sample
+https://www.leepoint.net/data/expressions/22compareobjects.html
+
+http://austinzheng.com/2015/10/04/swift-equatable/
