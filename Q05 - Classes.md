@@ -58,7 +58,7 @@ Sample
 
 ### Sources
 Java Answers: https://docs.oracle.com/javase/tutorial/java/javaOO/classdecl.html
-
 https://docs.oracle.com/javase/tutorial/java/javaOO/objectcreation.html
-
 http://stackoverflow.com/questions/2506488/when-is-the-finalize-method-called-in-java
+
+Swift Answers: https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html
