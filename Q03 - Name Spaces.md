@@ -6,7 +6,10 @@ Namespaces are implicitly declared in Swift. Swift makes a namespace at the boun
 
 ## How are name spaces used?
 #### Java
-As stated earlier, a package is a Java namespace. You need to import the classes in a package in order to gain access to them. Once you do that, you can create instances of those classes.
+As stated earlier, a package is a Java namespace. You need to import the classes in a package in order to gain access to them. Once you do that, you can create instances of those classes. Importing requires an import statement.
+```
+import graphics.Rectangle;
+```
 #### Swift
 Similar to Java, to use a namespace in Swift, you need to import the module. Importing in Swift, again is like Java. Use an import statement like this for example:
  ```
