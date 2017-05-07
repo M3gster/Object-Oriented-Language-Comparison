@@ -31,7 +31,12 @@ Example:
 int height = new Rectangle().height;
 ```
 #### Swift
-Sample
+To create an instance of a class, you need to use an initializer syntax. The simplest form of creating an instance is shown in the example. If properties are not provided, then they are just initiliazed to their default values.
+
+Example:
+```
+let myPet = Cat()
+```
 
 ## Constructing/initializing
 #### Java
@@ -46,13 +51,22 @@ public Cat(int a, string b, string c){
   }
   ```
 #### Swift
-Sample
+Initiliazers in Swift don't return a value, they're purpose is to make sure the instance is properly initialized before the instance's first use. They are also methods that create new instances of objects, like Java's constructors. Initializers are written with the keyword 'init'. You can add paramaters to the method's definition to allow a more customized initialization and assign values to properties beyond the default values.
+
+Example:
+```
+init(age: Int, name: String, color: String){
+  self.age = age
+  self.name = name
+  self.color = color
+ }
+ ```
 
 ## Destructing/de-initializing
 #### Java
 There are no destructors in Java. However, the finalize method is somewhat similar, but is not recommended. It is used for the cleanup of resources.
 #### Swift
-Sample
+There are deinitializers in Swift. They "perform custom cleanup just before an instance of that class is deallocated." A deinitializer is written with the 'deinit' keyword. However, Swift automatically deallocates instances when they aren't needed anymore so it isn't always needed to be done manually.
 
 ----
 
@@ -68,3 +82,7 @@ http://stackoverflow.com/questions/2506488/when-is-the-finalize-method-called-in
 Swift Answers: 
 
 https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html
+
+https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Initialization.html#//apple_ref/doc/uid/TP40014097-CH18-ID203
+
+https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Deinitialization.html#//apple_ref/doc/uid/TP40014097-CH19-ID142
