@@ -14,7 +14,11 @@ Sample
 
 ## Creating new instances
 #### Java
-Sample
+The new operator is needed to create an instance of the class. It sets aside memory for the new object and returns a reference to that memory. The new operator works by calling the object's constructor.
+Example:
+```
+int height = new Rectangle().height;
+```
 #### Swift
 Sample
 
@@ -34,3 +38,4 @@ Sample
 
 ### Sources
 Java Answers: https://docs.oracle.com/javase/tutorial/java/javaOO/classdecl.html
+https://docs.oracle.com/javase/tutorial/java/javaOO/objectcreation.html
