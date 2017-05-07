@@ -24,13 +24,21 @@ Sample
 
 ## Constructing/initializing
 #### Java
-Sample
+Classes contain constructors to initilize an object. Constructors have the same name as its class, but have no return type. Classes must have at least one constructor, but can have more than one assuming they have different signatures. If there isn't a constructor explicitely declared, then it uses the default constructor.
+Example of a Constructor:
+```
+public Cat(int a, string b, string c){
+  age = a;
+  name = b;
+  color = c;
+  }
+  ```
 #### Swift
 Sample
 
 ## Destructing/de-initializing
 #### Java
-Sample
+There are no destructors in Java. However, the finalize method is somewhat similar, but is not recommended. It is used for the cleanup of resources.
 #### Swift
 Sample
 
@@ -39,3 +47,4 @@ Sample
 ### Sources
 Java Answers: https://docs.oracle.com/javase/tutorial/java/javaOO/classdecl.html
 https://docs.oracle.com/javase/tutorial/java/javaOO/objectcreation.html
+http://stackoverflow.com/questions/2506488/when-is-the-finalize-method-called-in-java
