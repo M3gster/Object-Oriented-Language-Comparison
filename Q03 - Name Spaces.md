@@ -20,4 +20,5 @@ Similar to Java, to use a namespace in Swift, you need to import the module. Imp
 
 ### Sources
 Java Answers: http://cs.smu.ca/~porter/csc/465/notes/javapl_packages.html
+
 Swift Answers: https://andybargh.com/lifetime-scope-and-namespaces-in-swift/#Namespaces
