@@ -8,6 +8,7 @@
 | compare(a, b) | Value |
 #### Swift
 Comparison | Type
+--- | ---
 a == b, a != b | Value
 a === b, a !== b | Reference
 
