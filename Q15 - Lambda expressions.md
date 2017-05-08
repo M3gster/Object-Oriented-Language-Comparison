@@ -3,14 +3,18 @@ Lambda experiences help provide a clearer way to represent a method interface us
 
 Example of Lambda Expressions:
 ```
-Runnable ex = () -> System.out.println("This is a lambda expression example!"!;
+Runnable ex = () -> System.out.println("This is a lambda expression example!");
 ex.run();
 ```
 
 Lambda Expressions have several key characteristics:
+
   -- Optional Type Declaration
+  
   -- Optional Paranthesis Around Parameter
+  
   -- Optional Curly Braces
+  
   -- Optional Return Keyword
   
 All of these characteriscs help reduce and simplify code
